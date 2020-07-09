@@ -1,0 +1,22 @@
+{
+    "EnvironmentName": "deployer-api",
+    "EnvironmentId": "e-hdu3dvm4a9",
+    "ApplicationName": "deployer202007090610",
+    "VersionLabel": "deployer-api",
+    "SolutionStackName": "64bit Amazon Linux 2018.03 v2.15.2 running GlassFish 5.0 Java 8 (Preconfigured - Docker)",
+    "PlatformArn": "arn:aws:elasticbeanstalk:us-east-1::platform/Preconfigured Docker - GlassFish 5.0 with Java 8 running on 64bit Amazon Linux/2.15.2",
+    "Description": "deployer API environment",
+    "EndpointURL": "awseb-e-h-AWSEBLoa-1VS1T0N0MVBJ1-1784183209.us-east-1.elb.amazonaws.com",
+    "CNAME": "deployer-api.eba-vxae9rmm.us-east-1.elasticbeanstalk.com",
+    "DateCreated": "2020-07-09T11:10:50.648Z",
+    "DateUpdated": "2020-07-09T11:14:41.341Z",
+    "Status": "Updating",
+    "AbortableOperationInProgress": true,
+    "Health": "Grey",
+    "Tier": {
+        "Name": "WebServer",
+        "Type": "Standard",
+        "Version": "1.0"
+    },
+    "EnvironmentArn": "arn:aws:elasticbeanstalk:us-east-1:223611598935:environment/deployer202007090610/deployer-api"
+}

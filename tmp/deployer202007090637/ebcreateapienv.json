@@ -1,0 +1,18 @@
+{
+    "EnvironmentName": "deployer-api",
+    "EnvironmentId": "e-kcz4i4ww6k",
+    "ApplicationName": "deployer202007090637",
+    "SolutionStackName": "64bit Amazon Linux 2018.03 v2.15.2 running Docker 19.03.6-ce",
+    "PlatformArn": "arn:aws:elasticbeanstalk:eu-north-1::platform/Docker running on 64bit Amazon Linux/2.15.2",
+    "Description": "deployer API environment",
+    "DateCreated": "2020-07-09T11:38:03.719Z",
+    "DateUpdated": "2020-07-09T11:38:03.719Z",
+    "Status": "Launching",
+    "Health": "Grey",
+    "Tier": {
+        "Name": "WebServer",
+        "Type": "Standard",
+        "Version": "1.0"
+    },
+    "EnvironmentArn": "arn:aws:elasticbeanstalk:eu-north-1:223611598935:environment/deployer202007090637/deployer-api"
+}
